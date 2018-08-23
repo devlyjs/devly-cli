@@ -1,5 +1,5 @@
 {
-  "name": "devly-cli",
+  "name": "@devly/devly-cli",
   "version": "1.0.0",
   "description": "Command line utility for use across all devly plugins.",
   "main": "index.js",
