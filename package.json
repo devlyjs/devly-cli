@@ -1,0 +1,18 @@
+{
+  "name": "devly-cli",
+  "version": "1.0.0",
+  "description": "Command line utility for use across all devly plugins.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "devly",
+    "devly-cli"
+  ],
+  "author": "Aori Nevo",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.17.1"
+  }
+}
