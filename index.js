@@ -1,3 +1,3 @@
-const program = require('commander');
+const yargs = require('yargs');
 
-module.exports = program;
+module.exports = yargs;
